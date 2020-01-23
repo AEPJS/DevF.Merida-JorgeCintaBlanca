@@ -1,0 +1,16 @@
+.titulos{
+    font-size: 40px;
+    color: black;
+}
+
+h1{
+    color: blue;
+}
+
+.cuadro{
+    border: 3px dotted blueviolet;
+    width: 100px;
+    height: auto;
+    padding: 100px;
+    margin: 10px 10px 10px 10px;
+}
