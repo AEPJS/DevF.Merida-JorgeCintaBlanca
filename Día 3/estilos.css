@@ -14,10 +14,26 @@
 
 .cuadricula{
     margin-top: 100px;
+    margin-bottom: 100px;
+    width: 10000px;
+    height: 100px;
 }
 
 .cuadricula_imagenes{
     height: 290px;
     width: 290px;
     object-fit: cover;
+}
+
+.acomodo_texto{
+    display: flex;
+    align-items: center;
+}
+
+.fondo_fluido{
+    background-color: springgreen;
+}
+
+.ancho_tarjetas{
+    width: 100%;
 }
