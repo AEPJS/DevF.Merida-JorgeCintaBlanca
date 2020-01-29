@@ -1,0 +1,44 @@
+.img_pequeña{
+    width: 50px; height: 50px;
+  }
+  .img_mediana{
+    width: 100px; height: 100px;
+  }
+  .img_grande{
+    width: 200px; height: 200px;
+  }
+
+.fondo{
+    background-color: black;
+}
+
+.tamaño_container{
+    width: 100%;
+    height: 20px;
+}
+
+.centrado_container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.fuente_navbar{
+    color: whitesmoke !important;
+}
+
+.boton_rojo{
+    width: 300px;
+    height: 57px;
+    border-radius: 28px;
+    text-transform: uppercase;
+    background-color: red;
+    border-color: red;
+}
+
+.tamaño_imagen{
+    width: 1980px;
+    height: 900px;
+}
+
