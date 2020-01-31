@@ -1,0 +1,50 @@
+.login{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.fuente_navbar{
+    color: black !important;
+}
+
+.fondo_padre{
+    height: 100vh;
+}
+
+.hero_fondo{
+    background-image: url('./Imagenes/Hero_Fondo.jpeg') ;
+    background-size: cover ;
+    height: 100vh;
+}
+
+.hero_texto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+.hero_fuente{
+    font-size: 60px ;
+    color: white;
+}
+
+.hero_porque{
+    background-image: url('./Imagenes/por_que.png') ;
+    background-size: cover ;
+    height: 1200px;
+}
+
+.social_media{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.fondo_finfooter{
+    background-color: white;
+}
+
+.texto_finfooter{
+    font-size: smaller;
+}
