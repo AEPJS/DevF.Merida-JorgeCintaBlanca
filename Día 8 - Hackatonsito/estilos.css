@@ -48,3 +48,9 @@
 .texto_finfooter{
     font-size: smaller;
 }
+
+.hero_como{
+    background-image: url('./Imagenes/funciona.png') ;
+    background-size: cover ;
+    height: 800px;
+}
