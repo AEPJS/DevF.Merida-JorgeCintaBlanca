@@ -1,0 +1,63 @@
+.fondo_azul{
+    height: 500px;
+    width: 800px;
+    background: midnightblue;
+    border:5px solid black;
+}
+
+.rectangulo_top{
+    height: 185px;
+    width: 410px;
+    background:red;
+    border-bottom: 15px solid white;
+    border-left: 15px solid white;
+}
+
+.rectangulo_bottom{
+    height: 185px;
+    width: 410px;
+    background:red;
+    border-top: 15px solid gray;
+    border-left: 15px solid gray;
+}
+
+.flex_rec{
+    height: 500px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;   
+    align-items: flex-end; 
+    
+}
+
+.flex_cuad{
+    height: 500px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;   
+    align-items: flex-start; 
+}
+
+.cuadrado_top{
+    height: 185px;
+    width: 256px;
+    background:red;
+    border-bottom: 15px solid white;
+    border-right: 15px solid white;
+}
+
+.cuadrado_bottom{
+    height: 185px;
+    width: 260px;
+    background:red;
+    border-top: 15px solid white;
+    border-right: 15px solid white;
+}
+
+.div_col{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between ;
+}
